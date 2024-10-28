@@ -416,7 +416,37 @@ int main()
         printf("\t10 To sort element\n");
         printf("\t11 To reverse the "
                "linked list\n");
-        printf("\t12 Search an element in linked list\n");
+        printf("\t12 Search an element in linked Enter the number of nodes: 3
+
+Enter number to be inserted : 1
+
+Enter number to be inserted : 2
+
+Enter number to be inserted : 3
+
+The list is created
+
+	1 To see list
+	2 For insertion at starting
+	3 For insertion at end
+	4 For insertion at any position
+	5 For deletion of first element
+	6 For deletion of last element
+	7 For deletion of element at any position
+	8 To find maximum among the elements
+	9 To find mean of the elements
+	10 To sort element
+	11 To reverse the linked list
+	12 Search an element in linked list
+	13 To exit
+
+Enter Choice :
+1
+Data = 1
+Data = 2
+Data = 3
+
+list\n");
         printf("\t13 To exit\n");
         printf("\nEnter Choice :\n");
         scanf("%d", &choice);
@@ -467,4 +497,36 @@ int main()
     }
     return 0;
 }
+OUTPUT
+Enter the number of nodes: 3
+
+Enter number to be inserted : 1
+
+Enter number to be inserted : 2
+
+Enter number to be inserted : 3
+
+The list is created
+
+	1 To see list
+	2 For insertion at starting
+	3 For insertion at end
+	4 For insertion at any position
+	5 For deletion of first element
+	6 For deletion of last element
+	7 For deletion of element at any position
+	8 To find maximum among the elements
+	9 To find mean of the elements
+	10 To sort element
+	11 To reverse the linked list
+	12 Search an element in linked list
+	13 To exit
+
+Enter Choice :
+1
+Data = 1
+Data = 2
+Data = 3
+
+
 
