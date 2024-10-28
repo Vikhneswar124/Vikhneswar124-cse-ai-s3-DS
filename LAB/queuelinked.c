@@ -147,4 +147,12 @@ int main()
 
     return 0;
 }
+OUTPUT
+Queue Front: 10
+Queue Rear: 20
+Queue Front: 40
+Queue Rear: 50
+
+
+
 
