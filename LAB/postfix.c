@@ -83,3 +83,7 @@ int evaluatePostfix(char* postfix) {
     
     return pop();
 }
+OUTPUT
+Enter a postfix expression: 122+4*+
+Result of postfix evaluation: 17
+
