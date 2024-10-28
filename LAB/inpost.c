@@ -53,7 +53,20 @@ int precedence(char x) {
             return 3;  
             return 0;  
     }
+}/*import java.util.*;
+
+class employee {
+    int age;
+    long phone;
+    String name, address;
+    double salary;
+
+    void printSal() {
+        System.out.println("Salary: " + salary);
+    }
 }
+
+class officer extends emplo
 
 
 int isAlphaNumeric(char ch) {
@@ -100,5 +113,6 @@ void infixToPostfix(char* infix, char* postfix) {
     }
     postfix[j] = '\0';  
 }
+OUTPUT
 /*Enter an infix expression: (A+(C+B)*D)
 Postfix Expression: ACB+D*+
